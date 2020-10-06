@@ -1,4 +1,4 @@
-package br.com.thales.dao;
+package br.com.thales.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
